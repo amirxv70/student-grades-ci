@@ -30,3 +30,5 @@ pytest -v
 
 При каждом `push` и `pull request` GitHub Actions выполняет два этапа:
 **Build** (установка зависимостей и проверка сборки) → **Test** (запуск pytest).
+
+���������: ��������� �������� pipeline.
